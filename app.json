@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "pgstore2",
+    "slug": "pgstore2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.predictgroup.pgstore2"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.predictgroup.pgstore2"
+    },
+    "scheme": "pgstore2",
+    "plugins": [
+      "@react-native-google-signin/google-signin"
+    ]
+  },
+  "name": "pgstore2",
+  "displayName": "PGStore"
+}
