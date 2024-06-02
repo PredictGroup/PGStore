@@ -1,3 +1,4 @@
+<img src="https://github.com/PredictGroup/PGStore/blob/main/images/logo.png" width="150">
 PGStore
 
 This is a store demo app for iOS and Android both.
