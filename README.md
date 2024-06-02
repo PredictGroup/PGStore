@@ -2,4 +2,4 @@ PGStore
 
 This is a store demo app for iOS and Android both.
 
-![alt text](https://github.com/PredictGroup/PGStore/images/Simulator Screen Shot - iPhone 13 - 2022-09-02 at 10.19.03.png?raw=true)
+![Screen Shot - iPhone 13](https://github.com/PredictGroup/PGStore/images/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-09-02%20at%2010.19.03.png?raw=true)
